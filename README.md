@@ -18,10 +18,4 @@ If the user's name is John Doe, the branch name will be:
     IDEA-APP/JD/<branch name>
 ```
 
-#### Example Branches
-
-- `IDEA-APP/JD/feature-login`
-- `IDEA-APP/JD/fix-ui-bug`
-- `IDEA-APP/JD/optimize-performance`
-
 This convention helps in easily identifying the developer or contributor associated with a branch and the purpose of the changes being made.
